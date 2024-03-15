@@ -1,4 +1,4 @@
-# Snake
+# Snake game 
 
 Snake Game
 
